@@ -1,0 +1,30 @@
+{
+    "pages": {
+      "home": {
+        "title": "Home - My Website",
+        "description": "Welcome to My Website, the home of great content!",
+        "canonical": "{baseurl}"
+      },
+      "about": {
+        "title": "About Us - My Website",
+        "description": "Learn more about My Website, our mission, and our values.",
+        "canonical": "{baseurl}/about"
+      },
+      "solutions": {
+        "title": "Solutions - My Website",
+        "description": "Explore the innovative solutions offered by My Website.",
+        "canonical": "{baseurl}/solutions"
+      },
+      "services": {
+        "title": "Services - My Website",
+        "description": "Discover the range of services provided by My Website.",
+        "canonical": "{baseurl}/services"
+      },
+      "contact": {
+        "title": "Contact Us - My Website",
+        "description": "Get in touch with My Website for more information.",
+        "canonical": "{baseurl}/contact"
+      }
+    }
+  }
+  
